@@ -1,5 +1,5 @@
 body{
-    background-image: url('/images/starsBackground.svg');
+    background-image: url('images/starsBackground.svg');
     background-size:cover;
     background-repeat: no-repeat;
     margin: 0;
